@@ -1,0 +1,53 @@
+body {
+	background-color: white;
+	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+}
+.header {
+	height: 120px;
+}
+
+.category h1 a {
+	color: red;
+	text-decoration: none;
+}
+
+.peek {
+	font-size: 24px;
+	text-align: center;
+	padding: 20px auto;
+}
+
+.vid {
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+
+#FAQ-background {
+	background-color: #dbd6d1;
+	border-radius: 10px;
+	padding: 1px 0 1px 0;
+	margin-top: 25px;
+}
+
+#FAQ-inner {
+  background-color: red;
+  margin: 10px;
+  color: white;
+  font-size: 27px;
+  text-align: center;
+  border-radius: 10px;
+  padding: 3%;
+}
+
+li {
+	list-style-type: none;
+	font-size: 17px;
+}
+
+li.q {
+	font-weight: bold;
+}
+li.a {
+	padding-left: 15px;
+}
